@@ -29,7 +29,7 @@ Hệ thống giám sát và chống gian lận chuyên nghiệp dành cho game A
 
 ## 🌐 Trang Chủ & Hỗ Trợ
 
-- **Dashboard Quản Lý:** [https://dashboard.wololostudio.io.vn](https://dashboard.wololostudio.io.vn)
+- **Trang chủ:** [https://wololo.io.vn](https:///wololo.io.vn)
 - **Hỗ Trợ Kỹ Thuật:** Quét mã QR Zalo trên ứng dụng hoặc liên hệ Wololo Studio.
 
 *Copyright (C) 2026 Wololo Studio. All rights reserved.*
