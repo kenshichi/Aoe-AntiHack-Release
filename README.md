@@ -23,7 +23,7 @@ Hệ thống giám sát và chống gian lận chuyên nghiệp dành cho game A
 - 📺 **In-Game OSD Overlay:** Hiển thị thông báo nổi thông minh ngay trên màn hình game AoE (hiển thị tối thiểu 5s).
 - 🔔 **Cảnh báo Blacklist P1 - P8:** Tự động phát âm thanh nhận diện đối thủ có tiền sử gian lận.
 - ⚡ **Universal Compatibility:** Tương thích 100% với cả Windows 32-bit và Windows 64-bit.
-- 🚀 **Khởi động tức thì:** Mã hóa C++ Native bảo mật cao, mở app chỉ trong 0.5s.
+- 🚀 **Khởi động tức thì:** Mở app chỉ trong 0.5s.
 
 ---
 
