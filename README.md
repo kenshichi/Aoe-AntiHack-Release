@@ -13,13 +13,12 @@ Hệ thống giám sát và chống gian lận chuyên nghiệp dành cho game A
 👉 **[Tải Bộ Cài Đặt Windows (.exe) - Khuyên Dùng](https://github.com/kenshichi/Aoe-AntiHack-Release/releases/latest)**
 
 * **Bản Cài Đặt (Setup Installer):** Tự động cài đặt driver Npcap, tạo shortcut Desktop, hỗ trợ gỡ cài đặt sạch sẽ.
-* **Bản Portable (Chạy Ngay):** Tải file .zip, giải nén và click chạy trực tiếp không cần cài đặt.
 
 ---
 
 ## 🌟 Tính Năng Nổi Bật
 
-- 🛡️ **Bảo vệ toàn diện Realtime:** Giám sát bộ nhớ và bắt gói tin mạng chống hack tài nguyên, hack soi bản đồ, hack nhảy đời.
+- 🛡️ **Bảo vệ toàn diện Realtime:** Giám sát game chống hack tài nguyên, hack map, hack điều khiển thú, DEL dân, quân người khác.
 - 📺 **In-Game OSD Overlay:** Hiển thị thông báo nổi thông minh ngay trên màn hình game AoE (hiển thị tối thiểu 5s).
 - 🔔 **Cảnh báo Blacklist P1 - P8:** Tự động phát âm thanh nhận diện đối thủ có tiền sử gian lận.
 - ⚡ **Universal Compatibility:** Tương thích 100% với cả Windows 32-bit và Windows 64-bit.
